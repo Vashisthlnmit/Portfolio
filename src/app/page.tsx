@@ -34,7 +34,7 @@ export default function Home() {
             />
           </div>
         </div>
-        <h1 className="text-center text-white font-bold text-xl">"Skills are the currency of the future. Acquire as many as you can, and invest in their growth continually."</h1>
+        <h1 className="text-center text-white font-bold text-xl">&quot;Skills are the currency of the future. Acquire as many as you can, and invest in their growth continually.&quot;</h1>
         <h1 className="text-center text-white font-bold m-4 text-xl">My Skills</h1>
         <div className="flex flex-wrap ml-4 justify-center">
           <div className="flex flex-wrap flex-col w-40 hover:bg-yellow-400 m-4 h-40 justify-center bg-gray-800 rounded">
