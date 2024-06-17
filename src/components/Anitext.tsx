@@ -4,7 +4,7 @@ import Link from "next/link";
 export function TypewriterEffectDemo() {
   const words = [
     {
-      text: "I'm",
+      text: "I&apos;m",
       classname:"text-white dark:text-white"
     },
     {
