@@ -34,6 +34,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-Welcome to my portfolio! I am a full stack web developer. My expertise lies in [key skills or areas of specialization, e.g.,  front-end development, back-end development.
-Please explore my portfolio to see detailed examples of my work and the impact it has made. I am always open to new challenges and opportunities to apply my skills in innovative ways. Thank you for visiting!
-
+Welcome to my portfolio! I am a full stack web developer. My expertise lies in [key skills or areas of specialization, e.g.,  front-end development, back-end.

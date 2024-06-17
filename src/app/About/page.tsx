@@ -1,4 +1,5 @@
 'use client'
+import Image from "next/image"
 export default function Aboutme() {
     return (
         <>
@@ -16,7 +17,7 @@ export default function Aboutme() {
                     </p>
                 </div>
                 <div className="w-full md:w-1/2 p-4">
-                    <img src="/mainvasu.png" alt="About Us"
+                    <Image src="/mainvasu.png" alt="About Us"
                         width={500}
                         height={500}
                         className="rounded-lg " />

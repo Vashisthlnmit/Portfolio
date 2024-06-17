@@ -19,7 +19,7 @@ export default function Home() {
       <div className="min-h-screen bg-gray-900">
         <div className="flex flex-col  md:flex-row items-center justify-between p-4">
           <div className="md:w-1/2 w-full p-4 bg-gray-900">
-            <img
+            <Image
               src="/vash.jpeg"
               alt="Placeholder"
               className="w-full h-1/2 rounded-lg"
@@ -27,7 +27,7 @@ export default function Home() {
           </div>
           <TypewriterEffectDemo />
           <div className="md:w-1/2 w-full p-4 bg-gray-900">
-            <img
+            <Image
               src="/vashbg.jpeg"
               alt="Placeholder"
               className="w-full h-lvh rounded-lg"
